@@ -1,0 +1,227 @@
+Hard Court  	 Aberto da Bahia Salvador
+Hard Court  	 Aberto de Brasilia
+Clay Court  	 Aberto de Tenis Porto Alegre
+Clay Court  	 Aberto Santa Catarina De Tennis Blumenau
+Clay Court  	 Abierto Internacional Cancun
+Hard Court  	 Abierto Internacional del Bicentenario Leon
+Hard Court  	 Adelaide International West Lakes
+Hard Court  	 Aegean Tennis Cup Rhodes
+Hard Court  	 AEGON Nottingham Challenge
+Hard Court  	 AEGON Pro Series Bath
+Grass Court  	 AEGON Pro Series Manchester
+Grass Court  	 AEGON Trophy Nottingham
+Clay Court  	 Aguascalientes Open Mexico
+Hard Court  	 Almaty Cup
+Hard Court  	 American Express Ted Open Istanbul
+Clay Court  	 AON Open Challenger Genova
+Clay Court  	 Arad Tennis Challenger
+Hard Court  	 ATP Challenger Guangzhou
+Hard Court  	 ATP Challenger Tour Finals
+Clay Court  	 ATP Challenger Visit Panama Cup
+Hard Court  	 ATP Roller Open Petange
+Indoor Hard Court  	 ATP Salzburg Indoors
+Clay Court  	 Austrian Open Kitzbuhel
+Clay Court  	 Bancolombia Open Bogota
+Clay Court  	 Banja Luka Challenger
+Hard Court  	 Banque Nationale De Granby
+Hard Court  	 Baton Rouge Pro Tennis Classic Los Angeles
+Carpet Court  	 Bauer Watertechnology Cup Eckental
+Hard Court  	 Beijing Challenger
+Hard Court  	 BH Telekom Indoors Sarajevo
+Hard Court  	 BH Tennis Open International Cup
+Hard Court  	 Binghamton Tennis Challenger
+Clay Court  	 Black Forrest Open Freudenstadt
+Hard Court  	 BMW Tennis Championship Sunrise
+Clay Court  	 BNP Paribas Primrose Bordeaux
+Clay Court  	 Brasil Open Series Curitiba
+Hard Court  	 Brasil Open Series Recife
+Clay Court  	 Brasov Challenger
+Clay Court  	 BRD Sibiu Challenger
+Clay Court  	 BRD Timisora Challenger
+Clay Court  	 BSI Lugano Challenger
+Hard Court  	 Busan Open Challenger Tennis
+Clay Court  	 Cachantun Cup Santiago
+Hard Court  	 Calabasas Pro Tennis Championships
+Hard Court  	 Caloundra International
+Clay Court  	 Camparini Gioielli Cup Reggio Emilia
+Hard Court  	 Campeonato Internacional de Tenis
+Clay Court  	 Canella Challenger Biella
+Clay Court  	 Carisap Tennis Cup San Benedetto
+Hard Court  	 Challenger Banque Nationale Rimouski
+Clay Court  	 Challenger Ciudad De guayaquil
+Hard Court  	 Challenger DCNS De Cherbourg
+Hard Court  	 Challenger of Dallas
+Hard Court  	 Challenger Salinas Diario Expreso
+Hard Court  	 Challenger Varonil Britania Zavaleta Puebla
+Hard Court  	 Chang-SAT Bangkok 2
+Hard Court  	 Chang-Sat Bangkok Open
+Clay Court  	 China International An-Ning
+Hard Court  	 Citibank Mastercard Tennis Cup Campos do Jordao
+Hard Court  	 Citta Di Como Challenger
+Clay Court  	 CittaDi Caltanissetta
+Clay Court  	 Club Premium Open Ecuador
+Clay Court  	 Concurso Internacional de Tenis San Sebastian
+Clay Court  	 Constanta Romania
+Clay Court  	 Copa Agco Cordoba Villa Allende
+Hard Court  	 Copa Internacional de Tenis Mexico City
+Clay Court  	 Copa Petrobras Argentina
+Clay Court  	 Copa Petrobras Asuncion
+Clay Court  	 Copa Petrobras Colombia Bogota
+Clay Court  	 Copa Petrobras Montevideo
+Clay Court  	 Copa Petrobras Santiago
+Clay Court  	 Copa Petrobras Sao Paulo
+Clay Court  	 Copa San Juan Gobierno
+Clay Court  	 Copa Sevilla
+Clay Court  	 Copa Topper Buenos Aires
+Clay Court  	 Cyclus Open De Tennis Florianopolis
+Hard Court  	 Dallas Tennis Classic
+Clay Court  	 Dueponti Cup Rome
+Carpet Court  	 Dunlop World Challenge Toyota
+Clay Court  	 ECCO Sao Leo Open De Tennis Sao Leopoldo
+Hard Court  	 Ethias Trophy Mons
+Hard Court  	 Fergana Challenger
+Hard Court  	 Flea Market Cup Chuncheon
+Clay Court  	 Franken Challenge Furth
+Carpet Court  	 Gemax Open Belgrade
+Hard Court  	 Green World ATP Challenger
+Hard Court  	 Guzzini Challenger Recanati
+Clay Court  	 Habour Tennis Cup Milan
+Hard Court  	 Heilbronn Open
+Carpet Court  	 Intenazionali Di Tennis Val Gardena Sud Tirol Ortisei
+Clay Court  	 International apano Cup Dortmund
+Hard Court  	 Internationaux de Nouvelle-Caledonie
+Clay Court  	 Internationaux de Tennis de Blois
+Hard Court  	 Internazionali di Tennis di Bergamo
+Carpet Court  	 IPP Open Helsinki
+Clay Court  	 IPP Trophy Challenger Geneva
+Clay Court  	 IS Open de Tenis Sao Paulo
+Hard Court  	 Israel Open Ramat Hasharon
+Hard Court  	 Jalisco Open Guadalajara
+Hard Court  	 JSM Challenger Champaign Urbana
+Hard Court  	 Karshi Challenger
+Hard Court  	 Kazan Kremlin Cup
+Hard Court  	 KEIO Challenger Yokohama
+Hard Court  	 Knoxville Challenger
+Hard Court  	 Kobstaedernes Challenger Kolding
+Clay Court  	 Kosice Open
+Hard Court  	 Kun-Ming Challenger
+Hard Court  	 LA Tennis Open Carson
+Carpet Court  	 Lambertz Open Aachen
+Clay Court  	 Lermontov Cup
+Clay Court  	 Lima Challenger
+Clay Court  	 Ljubljana Open Slovenia
+Clay Court  	 LXIX Concurso International de Tenis Vigo
+Hard Court  	 Manta Open Ecuador
+Clay Court  	 Marbella Open
+Clay Court  	 Marburg Open
+Hard Court  	 Maui Challenger Hawaii
+Hard Court  	 McDonalds Burnie International
+Clay Court  	 Mersin Cup
+Clay Court  	 Mitsubishi Electric Cup Monza
+Clay Court  	 Mordovia Cup Saransk
+Clay Court  	 Morocco Tennis Tour Casablanca
+Clay Court  	 Morocco Tennis Tour Marrakech
+Clay Court  	 Morocco Tennis Tour Meknes
+Clay Court  	 Morocco Tennis Tour Rabat
+Clay Court  	 Morocco Tennis Tour Tanger
+Hard Court  	 Natomas Mens Professional Tennis Tournament Sacramento
+Hard Court  	 Natures Way Sydney Tennis International
+Hard Court  	 Nielsen USTA Pro Tennis Championship Winnetka
+Hard Court  	 Ningbo Challenger
+Clay Court  	 NORD LB Open Braunschweig
+Clay Court  	 Oberstaufen Cup
+Clay Court  	 Odlum Brown Vancouver Open
+Hard Court  	 OEC Kaohsiung Taiwan
+Clay Court  	 Open Barletta
+Hard Court  	 Open Castilla Leon Segovia
+Hard Court  	 Open de La Reunion Island
+Hard Court  	 Open de Orleans
+Hard Court  	 Open De Rennes
+Clay Court  	 Open de Tenis Itajai
+Hard Court  	 Open Diputacion Pozoblanco
+Hard Court  	 Open EuroEnergie de Quimper
+Clay Court  	 Open Prevadies Saint-Brieuc
+Clay Court  	 Open Seguros Bolivar Bogota
+Clay Court  	 Open Tarragona Costa Daurada
+Hard Court  	 Orange Guadeloupe Challenger Le Gosier
+Clay Court  	 Palm Hill International Challenger Cairo
+Clay Court  	 Pekao Szczzecin Open
+Hard Court  	 Penza Cup
+Clay Court  	 Polish Open Sopot
+Clay Court  	 Porsche Open Poznan
+Clay Court  	 Prague Open
+Hard Court  	 Presidents Cup Astana
+Hard Court  	 Presidents Cup Astana-2 Kazakhstan
+Hard Court  	 Prime Cup Aberto de Sao Paulo
+Clay Court  	 Prosperita Open Ostrava
+Clay Court  	 RAI Open Rome
+Hard Court  	 Recife Open de Tennis
+Clay Court  	 Rijeka Open Croatia
+Hard Court  	 Rio Quente Resorts Tennis Classic
+Hard Court  	 Ritro Slovak Open Bratislava
+Clay Court  	 Riviera Di Rimini Challenger
+Hard Court  	 Road to Shanghai Rolex Master
+Clay Court  	 Roma Open Italy
+Hard Court  	 Royal Bank Of Scotland Challenger Tiburon
+Clay Court  	 Samarkand Challenger
+Hard Court  	 Samsung Securities Cup Soul
+Clay Court  	 San Luis Open Potosi Challenger
+Hard Court  	 San Marino CEPU Open
+Clay Court  	 San Remo Tennis Cup
+Clay Court  	 Santos Brasil Tennis Open
+Clay Court  	 Sao Jose do Rio Preto
+Clay Court  	 Sarasota Open Longboat Key
+Clay Court  	 SDA Tennis Open Grez Doiceau
+Clay Court  	 Seguros Bolivar Open Barranquilla
+Clay Court  	 Seguros Bolivar Open Bucaramanga
+Clay Court  	 Seguros Bolivar Open Cali
+Clay Court  	 Seguros Bolivar Open Medellin
+Clay Court  	 Seguros Bolivar Open Pereira
+Hard Court  	 Seguros Bolivar Open San Jose
+Carpet Court  	 Shimadzu All Japan Indoor Kyoto
+Hard Court  	 Siberia Cup Tyumen
+Clay Court  	 Sicilia Classic Mancuso Company Cup Italy
+Clay Court  	 Siemens Open Scheveningen
+Hard Court  	 Singapore ATP Challenger
+Hard Court  	 Slovenia Open Portoroz
+Hard Court  	 Soweto Open Johannesburg
+Hard Court  	 STATUS Athens Open
+Hard Court  	 Tallahassee Tennis Challenger Florida
+Clay Court  	 Tampere Open
+Hard Court  	 Tashkent Challenger
+Clay Court  	 TEAN International Alphen aan den Rijn
+Hard Court  	 Tennis Championships Lexington
+Clay Court  	 Tennis Cup Campinas
+Clay Court  	 Tennis Cup Rio de Janeiro
+Clay Court  	 Tennis Napoli Cup
+Clay Court  	 Tennislife Cup Trofeo Kimbo Italy
+Carpet Court  	 The Caversham International Jersey
+Hard Court  	 The Comerica Bank Challenger Aptos
+Hard Court  	 The Honolulu Challenger
+Hard Court  	 The Jersey International
+Clay Court  	 Todi Challenger
+Clay Court  	 Torneo OMNIA Tennis Ciudad De Madrid
+Clay Court  	 Trani Cup
+Clay Court  	 Trnava Challenger Slovakia
+Clay Court  	 Trofeo Bellaveglia Challenger Orbetello
+Clay Court  	 Trofeo Cassa Di Risparmio Alessandria
+Clay Court  	 Trofeo Dimmidisi Manerbio
+Hard Court  	 Trofeo Manta Open
+Hard Court  	 Trofeo Paolo Corazzi Cremona
+Clay Court  	 Trofeo Regione Piemonte Turin
+Hard Court  	 Trophee des Alpilles St. Remy
+Clay Court  	 Tunis Open
+Hard Court  	 Turk Telecom Izmir Cup
+Clay Court  	 Unicredit Czech Open Prostejov
+Hard Court  	 USTA Challenger of Oklahoma Tulsa
+Clay Court  	 USTA Savannah Challenger
+Hard Court  	 Valle DAosta Open Courmayeur
+Hard Court  	 Virginia National Bank Charlottesville
+Carpet Court  	 Volkswagen Challenger Wolfsburg
+Hard Court  	 Weil Tennis Academy Challenger Ojai
+Hard Court  	 Wuhai Challenger China
+Hard Court  	 Wuhan Challenger
+Carpet Court  	 Yugra Cup Khanty Mansiysk
+Clay Court  	 Zagreb Open Croatia
+Clay Court  	 ZRE Katowice Bytom Open
+Clay Court  	 Zucchetti Kos Tennis Cup Cordenons

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:beans="http://www.springframework.org/schema/beans"
+	xmlns:tx="http://www.springframework.org/schema/tx" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.1.xsd">
+
+	<context:property-placeholder location="classpath:jdbc.properties" />
+	<context:component-scan base-package="com.myprojects.followYourBets" />
+	<context:annotation-config />
+	
+	<mvc:annotation-driven/>
+	<mvc:resources mapping="/resources/**" location="/static-resource/"/>
+
+	<!-- DispatcherServlet Context: defines this servlet's request-processing 
+		infrastructure -->
+
+	<!-- Handles HTTP GET requests for /resources/** by efficiently serving 
+		up static resources in the ${webappRoot}/resources directory -->
+	<mvc:resources mapping="/resources/**" location="/resources/" />
+
+	<!-- Resolves views selected for rendering by @Controllers to .jsp resources 
+		in the /WEB-INF/views directory -->
+	<beans:bean id="jspViewResolver"
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<beans:property name="prefix" value="/WEB-INF/views/" />
+		<beans:property name="suffix" value=".jsp" />
+	</beans:bean>
+
+	<!-- DataSource -->
+	<!-- <beans:bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource"> 
+		<beans:property name="driverClassName" value="${database.driver}" /> <beans:property 
+		name="url" value="${database.url}" /> <beans:property name="username" value="${database.user}" 
+		/> <beans:property name="password" value="${database.password}" /> </beans:bean> -->
+
+	<beans:bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
+		destroy-method="close">
+		<beans:property name="driverClass">
+			<beans:value>${database.driver}</beans:value>
+		</beans:property>
+		<beans:property name="jdbcUrl">
+			<beans:value>${database.url}</beans:value>
+		</beans:property>
+		<beans:property name="properties">
+			<beans:props>
+				<beans:prop key="c3p0.minPoolSize">2</beans:prop>
+				<beans:prop key="c3p0.maxPoolSize">50</beans:prop>
+				<beans:prop key="c3p0.timeout">5000</beans:prop>
+				<beans:prop key="c3p0.max_statement">100</beans:prop>
+				<beans:prop key="c3p0.testConnectionOnCheckout">true</beans:prop>
+				<beans:prop key="user">${database.user}</beans:prop>
+				<beans:prop key="password">${database.password}</beans:prop>
+			</beans:props>
+		</beans:property>
+	</beans:bean>
+
+
+	<!-- SessionFactory -->
+	<beans:bean id="sessionFactory"
+		class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<beans:property name="dataSource" ref="dataSource" />
+		<beans:property name="annotatedClasses">
+			<beans:list>
+				<beans:value>com.myprojects.followYourBets.domain.Bet</beans:value>
+				<beans:value>com.myprojects.followYourBets.domain.Player</beans:value>
+				<beans:value>com.myprojects.followYourBets.domain.Tournament</beans:value>
+				<beans:value>com.myprojects.followYourBets.domain.TournamentSurface</beans:value>
+				<beans:value>com.myprojects.followYourBets.domain.BetType</beans:value>
+				<beans:value>com.myprojects.followYourBets.domain.Result</beans:value>
+			</beans:list>
+		</beans:property>
+		<beans:property name="hibernateProperties">
+			<beans:props>
+				<beans:prop key="hibernate.dialect">${hibernate.dialect}</beans:prop>
+				<beans:prop key="hibernate.show_sql">${hibernate.show_sql}</beans:prop>
+				<beans:prop key="hibernate.hbm2ddl.auto">${hibernate.hbm2ddl.auto}</beans:prop>
+				<beans:prop key="hibernate.import_files">${hibernate.import_files}</beans:prop>
+			</beans:props>
+		</beans:property>
+	</beans:bean>
+
+	<!-- Transaction Manager -->
+	<beans:bean id="hibernateTransactionManager"
+		class="org.springframework.orm.hibernate3.HibernateTransactionManager">
+		<beans:property name="sessionFactory" ref="sessionFactory" />
+	</beans:bean>
+
+	<tx:annotation-driven transaction-manager="hibernateTransactionManager" />
+
+	<!-- Hibernate Template -->
+	<beans:bean id="hibernateTemplate"
+		class="org.springframework.orm.hibernate3.HibernateTemplate">
+		<beans:property name="sessionFactory">
+			<beans:ref bean="sessionFactory" />
+		</beans:property>
+	</beans:bean>
+
+	<beans:bean id="hibernateDaoSupport" abstract="true"
+		class="org.springframework.orm.hibernate3.support.HibernateDaoSupport">
+		<beans:property name="sessionFactory" ref="sessionFactory" />
+	</beans:bean>
+
+
+
+</beans:beans>

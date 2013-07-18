@@ -1,0 +1,85 @@
+Clay Court  	 Abierto Mexicano de Tenis Telcel
+Indoor Hard Court  	 ABN AMRO World Tennis Tournament
+Hard Court  	 Adelaide
+Clay Court  	 Allianz Suisse Open Gstaad
+Hard Court  	 ATP Auckland
+Clay Court  	 ATP Buenos Aires Copa Claro
+Hard Court  	 ATP LA Tennis Open Los Angeles
+Hard Court  	 ATP Long Island
+Clay Court  	 ATP Studena Croatia Open Umag
+Hard Court  	 Australian Open Men
+Hard Court  	 Australian Open Qualification
+Indoor Hard Court  	 BA-CA Tennis Trophy Wien
+Clay Court  	 Barcelona Open
+Hard Court  	 Barclays ATP World Tour Finals
+Clay Court  	 BMW Open Munich
+Clay Court  	 Brasil Open - Costa Do Sauipe
+Clay Court  	 BRD Open Romania Bucharest
+Hard Court  	 Brisbane International
+Hard Court  	 Capitala World Tennis Championship
+Clay Court  	 Catella Swedish Open Bastad
+Hard Court  	 Chennai
+Hard Court  	 China Open Beijing
+Indoor Hard Court  	 Davidoff Swiss Indoors Basel
+Hard Court  	 Dubai Tennis Championships
+Clay Court  	 Dutch Open Tennis Amersfoort
+Clay Court  	 Estoril Open
+Clay Court  	 French Open Men
+Clay Court  	 French Open Qualification
+Clay Court  	 Grand Prix Hassan II Casablanca
+Grass Court  	 Halle ATP
+Clay Court  	 Hypo Group Pörtschach
+Grass Court  	 International ATP Eastbourne
+Hard Court  	 Kingfisher Airlines Tennis Open Mumbai
+Clay Court  	 Kitzbühel ATP
+Carpet Court  	 Kremlin Cup Moskow Men
+Grass Court  	 London Queens Club
+Hard Court  	 Masters Final Shanghai
+Hard Court  	 Masters Rogers Cup
+Hard Court  	 Masters Series Cincinnati
+Clay Court  	 Masters Series Hamburg
+Hard Court  	 Masters Series Indian Wells
+Clay Court  	 Masters Series Madrid
+Clay Court  	 Masters Series Monte Carlo
+Carpet Court  	 Masters Series Paris
+Clay Court  	 Masters Series Rome
+Clay Court  	 Mercedes Cup Stuttgart
+Indoor Hard Court  	 Milan Indoors
+Grass Court  	 Newport
+Clay Court  	 Olympics Men Singles
+Indoor Hard Court  	 Open 13 Marseille
+Indoor Hard Court  	 Open de Moselle Metz
+Clay Court  	 Open de Nice
+Clay Court  	 Open de Tenis Comunidad Valenciana
+Indoor Hard Court  	 Open Sud de France Montpellier
+Clay Court  	 Palermo
+Hard Court  	 Pilot Pen Tennis
+Clay Court  	 Portugal Open
+Clay Court  	 Power Horse Cup
+Indoor Hard Court  	 Proton Malaysian Open Kuala Lumpur
+Hard Court  	 Qatar Open
+Hard Court  	 RCA Championships Indianapolis
+Indoor Hard Court  	 Regions Morgan Keegan Championships Memphis
+Grass Court  	 s-Hertogenbosch ATP UNICEF Open
+Hard Court  	 SA Tennis Open Johannesburg
+Indoor Hard Court  	 SAP Open
+Clay Court  	 Serbia Open ATP Belgrade
+Hard Court  	 Shanghai
+Hard Court  	 Sony Ericsson Open Masters Series Miami
+Clay Court  	 Sopot
+Indoor Hard Court  	 St. Petersburg Open
+Indoor Hard Court  	 Stockholm Open
+Hard Court  	 Sydney ATP
+Hard Court  	 Tennis Championships
+Hard Court  	 Tennis Channel Open Las Vegas
+Indoor Hard Court  	 Thailand Open Bangkok
+Hard Court  	 Tokyo Outdoor Open Championships
+Clay Court  	 U.S. Mens Clay Court Championships
+Hard Court  	 US Open Men
+Hard Court  	 US Open Qualification
+Clay Court  	 VTR Open Vina del Mar
+Hard Court  	 Washington
+Grass Court  	 Wimbledon Men
+Grass Court  	 Wimbledon Qualification
+Hard Court  	 Winston Salem Open
+Carpet Court  	 Zagreb Indoor

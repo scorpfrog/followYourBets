@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="players_atp.xsd" generated="2013-07-09T10:27:44">
+<Copia_x0020_de_x0020_Players_atp>
+<ID_P>1</ID_P>
+<NAME_P>Gustavo Kuerten</NAME_P>
+<DATE_P>1976-09-10T00:00:00</DATE_P>
+<COUNTRY_P>BRA</COUNTRY_P>
+<PRIZE_P>14807000</PRIZE_P>
+</Copia_x0020_de_x0020_Players_atp>
+<Copia_x0020_de_x0020_Players_atp>
+<ID_P>2</ID_P>
+<NAME_P>Marat Safin</NAME_P>
+<DATE_P>1980-01-27T00:00:00</DATE_P>
+<COUNTRY_P>RUS</COUNTRY_P>
+<PRIZE_P>14373291</PRIZE_P>
+</Copia_x0020_de_x0020_Players_atp>
+</dataroot>
