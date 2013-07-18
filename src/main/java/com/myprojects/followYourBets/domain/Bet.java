@@ -55,7 +55,7 @@ public class Bet implements Serializable {
 	private Result result ;
 	
 	@Column(name="won")
-	private int won ;
+	private Integer won = null;
 	
 	@Column(name="date")
 	private Date date ;
@@ -132,11 +132,11 @@ public class Bet implements Serializable {
 		this.result = result;
 	}
 
-	public int getWon() {
+	public Integer getWon() {
 		return won;
 	}
 
-	public void setWon(int won) {
+	public void setWon(Integer won) {
 		this.won = won;
 	}
 
@@ -146,6 +146,15 @@ public class Bet implements Serializable {
 
 	public void setDate(Date date) {
 		this.date = date;
+	}
+
+	@Override
+	public String toString() {
+		return "Bet [id=" + id + ", sport=" + sport + ", tournament="
+				+ tournament + ", playerOne=" + playerOne + ", playerTwo="
+				+ playerTwo + ", betType=" + betType + ", pick=" + pick
+				+ ", odd=" + odd + ", result=" + result + ", won=" + won
+				+ ", date=" + date + "]";
 	}
 
 	

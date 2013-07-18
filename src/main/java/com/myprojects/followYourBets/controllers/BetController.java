@@ -1,7 +1,6 @@
 package com.myprojects.followYourBets.controllers;
 
 import java.text.DateFormat;
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Locale;
@@ -24,6 +23,7 @@ import com.myprojects.followYourBets.domain.Bet;
 import com.myprojects.followYourBets.domain.Player;
 import com.myprojects.followYourBets.domain.Tournament;
 import com.myprojects.followYourBets.service.BetService;
+import com.myprojects.followYourBets.service.BetTypeService;
 import com.myprojects.followYourBets.service.PlayerService;
 import com.myprojects.followYourBets.service.TournamentService;
 
@@ -41,6 +41,9 @@ public class BetController {
 	
 	@Autowired
 	PlayerService playerService;
+	
+	@Autowired
+	BetTypeService betTypeService;
 	
 	private static final Logger logger = LoggerFactory.getLogger(BetController.class);
 	
@@ -66,6 +69,7 @@ public class BetController {
 		
 		modelMap.put("playerList", playerService.getAll());
 		modelMap.put("tournamentList", tournamentService.getAll());
+		modelMap.put("betTypeList", betTypeService.getAll());
 		modelMap.put("bet", new Bet());
 	
 		return new ModelAndView("bet/addBet");
@@ -93,7 +97,11 @@ public class BetController {
 	}
 	
 	@RequestMapping(value = "/bet/saveBet", method = RequestMethod.POST)
-	public String saveBet(@ModelAttribute("bet") Bet bet, BindingResult result) {		
+	public String saveBet(@ModelAttribute("bet") Bet bet, Model model) {		
+		
+		
+		model.addAttribute("bet", bet);
+		System.out.println(bet);
 		
 		betService.saveBet(bet);
 		

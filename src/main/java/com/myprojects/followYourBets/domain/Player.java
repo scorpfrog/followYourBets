@@ -66,6 +66,11 @@ public class Player implements Serializable {
 	public void setBornDate(Date bornDate) {
 		this.bornDate = bornDate;
 	}
+
+	@Override
+	public String toString() {
+		return "Player [id=" + id + ", name=" + name + "]";
+	}
 	
 	
 }

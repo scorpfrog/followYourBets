@@ -43,7 +43,7 @@
 			</form:label> 
 			<input id="filterPlayerOne" name="filterPlayerOne"/> 
 			<%-- <form:select path="playerOne" items="${playerList }" itemLabel="name" itemValue="id"/> --%> 
-			<form:select id="playerOne" path="playerOne">
+			<form:select id="playerOne" path="playerOne" itemLabel="name" itemValue="id">
 				<form:option value="Nothing selected" />
 			</form:select>
 			
@@ -55,13 +55,37 @@
 				<span class="small">Select player</span>
 			</form:label> 
 			<input id="filterPlayerTwo" name="filterPlayerTwo"/> 
-			<form:select id="playerTwo" path="playerTwo">
+			<form:select id="playerTwo" path="playerTwo" itemLabel="name" itemValue="id">
 				<form:option value="Nothing selected" />
 			</form:select>
 			
 			</div>
+			
+			<div style="float:left;margin-right:20px;">
+			<form:label path="betType">Bet type
+				<span class="small">Select a bet type</span>
+			</form:label> 
+			<form:select id="betType" path="betType" itemLabel="type" itemValue="id" items="${betTypeList }" />
+			
+			</div>
+			
+			<div style="float:left;margin-right:20px;clear:both;">
+			<form:label path="pick">Pick
+				<span class="small">Your selection is</span>
+			</form:label> 
+			<form:input id="pick" path="pick" />
+			
+			</div>
+			
+			<div style="float:left;margin-right:20px;clear:both;">
+			<form:label path="odd">Odd
+				<span class="small">Odd for this pick</span>
+			</form:label> 
+			<form:input id="odd" path="odd" />
+			
+			</div>
  			
- 			<div style="float:left;margin-right:20px;">
+ 			<div style="float:left;margin-right:20px;clear:both;">
 			<button type="submit">Insert pick</button>
 			<div class="spacer"></div>
 			</div>
